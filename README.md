@@ -12,11 +12,13 @@ https://github.com/4ms/4ms-kicad-lib
 
 ## Current Status
 
-Now manufacturing prototype. So please wait to use this.
+Manufacturing completed and no problem.
+
+![pcb_and_panel_image](https://github.com/ukyzky/prototyping_eurorack/raw/master/images/prototyping_pcb_panel.jpeg)
 
 ## Panel (4HP, 8HP, 10HP)
 
-fr4 2-layer panel layout is based on Delptronics Module Construction Kit.
+fr4 2-layer panel layout is based on Delptronics Module Construction Set.
 
 2-layer is more cost effective against original panel.
 
